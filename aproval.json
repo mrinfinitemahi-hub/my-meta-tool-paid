@@ -18,12 +18,13 @@
       "password": "1234",
       "expire": "31-12-2026"
     },
-    {
-      "name": "tontonfree",
-      "device_id": "MT-1862636DE23BD8AEE750",
-      "password": "1234",
-      "expire": "31-12-2026"
+        {
+      "name": "Mahi",
+      "device_id": "MT-C82EEA4D7C05EC500606",
+      "password": "123",
+      "expire": "11-10-2031"
     },
+
     {
       "name": "frees",
       "device_id": "MT-1F476035F4586641E35D",
